@@ -1,8 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="120" height="28" viewBox="0 0 120 28" role="img" aria-label="LinkedIn">
-  <rect width="120" height="28" rx="0" fill="#0A66C2"/>
-  <g fill="#fff">
-    <path d="M16.8 19.8h-2.7v-8.7h2.7v8.7zm-1.35-9.9c-.9 0-1.6-.7-1.6-1.6s.7-1.6 1.6-1.6 1.6.7 1.6 1.6-.7 1.6-1.6 1.6z"/>
-    <path d="M19 11.1h2.6v1.2h.04c.36-.68 1.24-1.4 2.55-1.4 2.73 0 3.23 1.8 3.23 4.14v4.75h-2.7v-4.21c0-1-.02-2.29-1.39-2.29-1.39 0-1.6 1.09-1.6 2.21v4.29H19v-8.7z"/>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="160" height="40" viewBox="0 0 160 40"
+     role="img" aria-label="LinkedIn">
+  <rect width="160" height="40" rx="0" fill="#0A66C2"/>
+
+  <!-- LinkedIn logo -->
+  <g fill="#FFFFFF">
+    <rect x="10" y="11" width="5" height="18" rx="0.5"/>
+    <circle cx="12.5" cy="7" r="3"/>
+    <path d="M19 11h5v2.5h.08c.7-1.35 2.4-2.95 5.15-2.95
+             5.5 0 6.52 3.62 6.52 8.33V29h-5.25v-8.98
+             c0-2.14-.04-4.9-2.98-4.9-2.98 0-3.43 2.33-3.43 4.74V29H19V11z"/>
   </g>
-  <text x="39" y="18.5" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="1.7">LINKEDIN</text>
+
+  <!-- Bold text -->
+  <text x="48" y="26"
+        fill="#FFFFFF"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="14"
+        font-weight="900"
+        letter-spacing="1.4">LINKEDIN</text>
 </svg>
